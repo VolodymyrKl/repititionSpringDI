@@ -1,5 +1,5 @@
 ### Name
-Hybris Internship Test Project Part 2 - Java EE (Spring DI)
+Hybris Internship Test Project Part 3 - Java EE (Spring DI)
 ### Description
 That is the project for simple illustration how work servlets with Spring DI. 
 You can add the product to data base, see lists of all product. You can also remove product by name or update price.
